@@ -1,0 +1,7 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="Project 'storm-kafka-client-examples'" />
+    <option name="defaultScopeName" value="Project 'storm-kafka-client-examples'" />
+    <option name="SEARCH_SCOPE" value="Project 'storm-kafka-client-examples'" />
+  </component>
+</application>
